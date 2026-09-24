@@ -1,0 +1,20 @@
+sector,count,sum,mean,overrun_percentage
+"Tourism, Hospitality & Wellness",2,2.0,1.0,100.0
+Water Resources,37,37.0,1.0,100.0
+Metals & Mining,4,4.0,1.0,100.0
+Steel,2,2.0,1.0,100.0
+Electricity Generation,16,15.0,0.9375,93.75
+Urban Public Transport,7,5.0,0.7142857142857143,71.42857142857143
+Education,11,7.0,0.6363636363636364,63.63636363636363
+Energy Storage,16,10.0,0.625,62.5
+Shipping,2,1.0,0.5,50.0
+Coal,6,3.0,0.5,50.0
+Transmission & Distribution,4,2.0,0.5,50.0
+Railways,179,81.0,0.45251396648044695,45.2513966480447
+Oil & Gas,92,39.0,0.42391304347826086,42.391304347826086
+Telecommunication,5,2.0,0.4,40.0
+Aviation & Aviation Infrastructure,11,4.0,0.36363636363636365,36.36363636363637
+Healthcare,3,1.0,0.3333333333333333,33.33333333333333
+Inland Waterways,4,1.0,0.25,25.0
+Construction,1,0.0,0.0,0.0
+Real Estate,1,0.0,0.0,0.0

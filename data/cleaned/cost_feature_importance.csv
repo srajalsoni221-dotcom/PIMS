@@ -1,0 +1,140 @@
+feature,importance
+numeric__expenditure_ratio,0.2000194285113157
+numeric__expenditure,0.11511378936854678
+numeric__physical_progress,0.11327966807658414
+numeric__original_cost,0.09106779461270188
+numeric__progress_per_month,0.052313069461889884
+numeric__project_duration_months,0.049409184605418904
+numeric__project_duration_days,0.04878997297888159
+categorical__sector_Water Resources,0.02100376131749616
+"categorical__ministry_Department of Water Resources, River Development & GR",0.015804504432639012
+categorical__sector_Railways,0.013442875557344644
+categorical__ministry_Ministry of Railways,0.01186551680247162
+categorical__sector_Oil & Gas,0.011788584426166317
+categorical__agency_SECR,0.010906704230482192
+categorical__ministry_Ministry of Power,0.01075866608309468
+categorical__agency_Bharat Petroleum Corporation Limited [BPCL],0.009637799959604015
+categorical__agency_PCE/WR,0.008373366637812685
+categorical__sector_Electricity Generation,0.0069385665159381405
+categorical__agency_Ministry of Petroleum & Natural Gas,0.0068223331558012155
+categorical__agency_RVNL - II,0.006678463606754034
+categorical__ministry_Ministry of Petroleum & Natural Gas,0.0066380755987926
+categorical__agency_Oil and Natural Gas Corporation Limited [ONGC],0.006439534880773856
+categorical__sector_Energy Storage,0.006122176843350226
+categorical__agency_East Coast Railway [ECoR] - II,0.00599880932750409
+categorical__agency_South Western Railway [SWR] - II,0.005951025762795083
+categorical__agency_South East Central Railway [SECR] - II,0.005282114067216677
+categorical__agency_MinistryofPetroleumNaturalGas,0.005076844929057951
+categorical__agency_North Central Railway,0.00457901060818874
+categorical__agency_Indian Railway Construction International Limited [IRCON],0.0042729051316073635
+categorical__agency_South Central Railway [SCR] - II,0.004261751181854634
+categorical__agency_Western Railway [WR] - II,0.004252224221068349
+categorical__agency_Hindustan Petroleum Corporation Limited,0.004053388953736734
+categorical__agency_East Central Railway [ECR] - I,0.003995487268947805
+categorical__sector_Metals & Mining,0.003713528794440434
+categorical__sector_Urban Public Transport,0.003690800255089989
+categorical__ministry_Ministry of Coal,0.0036419394587581732
+categorical__sector_Education,0.003391774612694415
+categorical__agency_Central Railway [CR] - II,0.0032903630864741635
+categorical__agency_Central Public Works Department [CPWD],0.003244578871470746
+categorical__agency_Mumbai Rail Vikas Corporation Ltd.[MRVC],0.0031157213046376186
+categorical__agency_Eastern Railway [ER] - I,0.003010416750509809
+categorical__agency_East Central Railway [ECR] - II,0.0027628676951129178
+categorical__ministry_Ministry of Mines,0.002578519161207354
+categorical__agency_North Western Railway [NWR],0.002569959861014459
+categorical__agency_Hindustan Petroleum Corporation Limited [HPCL],0.0025597221112113816
+categorical__ministry_Department of Telecommunications,0.002411889715683556
+categorical__ministry_Ministry of Steel,0.002388778320728677
+categorical__agency_National Thermal Power Corporation [NTPC],0.0023545283966293095
+categorical__agency_Department of water resources-MH - II,0.002331116843548526
+categorical__agency_Karnataka Rail Infrastructure Development Company Limited [K-RIDE],0.00231354950018823
+categorical__agency_Indian Oil Corporation Limited [IOCL],0.002265232341751534
+categorical__ministry_Department of Higher Education,0.002259116102260245
+categorical__agency_WR,0.002230105664403558
+categorical__agency_CR,0.0021260385849555877
+categorical__sector_Coal,0.0021015916428940274
+"categorical__agency_National Institute of Technology, Puducherry",0.002033601101642846
+categorical__ministry_Ministry of Civil Aviation,0.001977315621198169
+categorical__agency_Northeast Frontier Railway [NFR],0.0019398004770609795
+categorical__agency_Airport Authority of India [AAI],0.0018873709364394262
+"categorical__agency_Department of Water Resources, River Development & GR",0.0018769527941739914
+categorical__agency_Eastern Coal Fields Limited [ECL],0.0018756512700868352
+categorical__sector_Aviation & Aviation Infrastructure,0.0018392390443278752
+categorical__agency_Southern Railway [SR] - II,0.001752589837111375
+categorical__agency_INDIAN INSTITUTE OF TECHNOLOGY PALAKKAD,0.0016460305341643863
+categorical__agency_CAO/C/NCR,0.0016409574338842336
+categorical__ministry_Ministry of Housing & Urban Affairs,0.0016278743045007047
+categorical__sector_Inland Waterways,0.0016233631294399207
+categorical__ministry_Ministry of Health & Family Welfare,0.0015735411095394148
+categorical__agency_National Capital Region Transport Corporation [NCRTC],0.0015196482068302436
+categorical__agency_Department of Telecommunications [DoT],0.001478645108301134
+categorical__agency_North Eastern Railway [NER],0.0014131496540461454
+categorical__sector_Telecommunication,0.001398621502123454
+categorical__agency_West Central Railway [WCR] - II,0.001374688707635489
+categorical__agency_MRIDC,0.0013519998555285941
+categorical__agency_National Mineral Development Corporation Limited [NMDC],0.0012600208304304958
+categorical__sector_Healthcare,0.0012405271897117105
+categorical__agency_Mahanadi Coalfields Limited (MCL),0.001231357663070291
+categorical__agency_RVNL,0.0011959555358118717
+categorical__agency_Ministry of Coal,0.001139255646201588
+categorical__sector_Construction,0.0011174065492028102
+categorical__agency_Northen Railway [NR],0.001084335680441982
+categorical__agency_Ministry of Petroleum and Natural Gas,0.0010186546620633932
+categorical__agency_Inland Waterways Authority of India [IWAI],0.0010142017658367408
+categorical__agency_National Aluminium Company Limited [NALCO],0.0009408382478490892
+categorical__agency_South Eastern Railway - JH,0.0009344651272387758
+categorical__agency_Irrigation and CAD-TG,0.0009135189337279366
+"categorical__agency_Indian Institute of Technology, Bombay",0.0008843016174412703
+categorical__agency_South Eastern Railway [SER] - I,0.0008824307964072884
+"categorical__ministry_Ministry of Ports, Shipping and Waterways",0.0008608248493363717
+"categorical__agency_Indian Institute of Management, Sirmaur",0.0008428345705411349
+categorical__agency_Ministry of Mines,0.0008266222603224056
+"categorical__agency_Indian Institute of Technology, Kharagpur",0.000823541831290698
+categorical__agency_Bengaluru Metro Rail,0.000790794076629593
+categorical__agency_National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],0.0007511229665424333
+categorical__agency_Power Grid Corporation of India Limited [POWERGRID],0.0007368375860626526
+categorical__agency_CAO/C/NR,0.0007315281512048225
+categorical__agency_NRL,0.0007264118926056971
+categorical__agency_Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,0.0007054424509602449
+categorical__sector_Transmission & Distribution,0.0007024195695609276
+categorical__agency_Western Railway,0.0006613615355829467
+categorical__sector_Real Estate,0.0006494885058805623
+"categorical__agency_Central University, Himachal Pradesh",0.0006334263696244782
+categorical__agency_Ministry of Health & Family Welfare,0.0006127359031549217
+categorical__agency_Water Resources-AP,0.000583710077346586
+categorical__agency_IISC Bangalore,0.0005795858306411064
+categorical__agency_West Central Railway WCR I,0.0005733702160533058
+categorical__agency_South East Central Railway,0.0005708284571569002
+categorical__agency_Central Railways,0.0005343181379251865
+categorical__agency_NLC India Limited [NLCIL],0.000511119417601475
+categorical__sector_Steel,0.0004862242186337226
+categorical__agency_Southern Railway [SR] - I,0.0004755065592432842
+categorical__agency_Central Organisation for Railway Electrification [CORE],0.000438134483148962
+categorical__agency_South Central Railway [SCR] - I,0.00043543917619207664
+categorical__agency_THDC India Limited,0.00040966382331271894
+categorical__agency_Steel Authority of India Limited [SAIL],0.00040010386618012455
+categorical__sector_Shipping,0.0003842036135007198
+categorical__agency_Chennai Petroleum Corporation Limited [CPCL],0.00037752711028144175
+categorical__agency_Western Coalfields Limited [WCL],0.00035772871960871244
+categorical__agency_Mumbai Port Trust [MPT],0.0003435804668939594
+categorical__agency_Ministry of Education,0.00033446022936850506
+categorical__agency_SR-ERS,0.0003334781410078316
+"categorical__sector_Tourism, Hospitality & Wellness",0.00033321497763711907
+categorical__agency_CAO/C/II/NR,0.0003069594450329969
+"categorical__agency_Indian Institute of Management, Jammu",0.00030390691190895563
+categorical__agency_Department of Water Resources-PB,0.0002922303361809154
+categorical__agency_CAO/C/ECoR,0.0002777223946571496
+categorical__agency_Gas Authority of India Limited [GAIL],0.00021735679990670225
+"categorical__agency_Haldia Dock Complex, Syama Prasad Mookerjee Port Authority",0.0001937941086277485
+categorical__agency_National High Speed Rail Corporation [NHSRC],0.00017252128730529617
+categorical__agency_DFCCIL,0.00016446670335054485
+categorical__agency_India International Convention & Expo Centre,0.0001543182786639873
+categorical__ministry_Department for Promotion of Industry & Internal Trade,0.00014334798852596564
+categorical__agency_Damodar Valley Corporation,0.00014006972595391673
+categorical__agency_Gujarat Metro Rail Corporation Limited [GMRCL],5.62685049228517e-05
+categorical__agency_Water Resources-OR,3.687879085547238e-05
+categorical__agency_Mumbai Metro Rail Corporation Limited [MMRC],2.7188596308379155e-05
+categorical__agency_Water Resources-CT,5.842541408609321e-06
+categorical__agency_Irrigation & Water Resources-UP,4.753890059233915e-06
+categorical__agency_Water Resources-KA,3.4719263918431183e-06
+categorical__agency_Water Resources Department-MN,3.4626639328088037e-06

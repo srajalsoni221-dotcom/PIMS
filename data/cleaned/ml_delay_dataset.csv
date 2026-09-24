@@ -1,0 +1,529 @@
+original_cost,expenditure,physical_progress,project_duration_days,project_duration_months,expenditure_ratio,progress_per_month,sector,ministry,agency,delay_flag
+499,160.48,41,985.0,32.35873850197109,0.3216032064128256,1.2670456852791878,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+347,81.23,49,987.0,32.42444152431012,0.2340922190201729,1.5112056737588653,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+1217,1046.48,94,1677.0,55.09198423127464,0.8598849630238291,1.70623732856291,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+322,115.82,48,946.0,31.07752956636005,0.3596894409937888,1.544524312896406,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],0
+320,56.54,36,965.0,31.701708278580814,0.1766875,1.135585492227979,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+266,45.54,31,1063.0,34.92115637319316,0.171203007518797,0.887714016933208,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+887,312.4,44,1013.0,33.27858081471748,0.3521984216459977,1.3221717670286277,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+612,464.55,77,810.0,26.609724047306177,0.7590686274509804,2.893679012345679,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+480,254.71,77,932.0,30.617608409986858,0.5306458333333334,2.514892703862661,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+219,206.33,97,2188.0,71.87910643889619,0.9421461187214611,0.8365771392879451,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+861,154.3,30,1451.0,47.66754270696452,0.1792102206736353,0.6293590627153688,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],0
+480,427.04,67,1145.0,37.614980289093296,0.8896666666666667,1.7812052401746723,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+485,74.67,19,850.0,27.92378449408673,0.1539587628865979,0.6804235294117646,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+1305,666.42,63,1477.0,48.52168199737188,0.5106666666666666,1.298388625592417,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],0
+2870,302.3,14,1114.0,36.596583442838366,0.1053310104529616,0.3825493716337523,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],0
+1549,262.41,10,885.0,29.07358738501971,0.1694060684312459,0.343954802259887,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],0
+256,130.0,88,1499.0,49.24441524310118,0.5078125,1.7870046697798534,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+1207,376.47,21,2635.0,86.56373193166885,0.3119055509527755,0.2425958254269449,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+328,98.15,44,681.0,22.371879106438897,0.2992378048780488,1.9667547723935388,Aviation & Aviation Infrastructure,Ministry of Civil Aviation,Airport Authority of India [AAI],1
+459,274.35,92,3171.0,104.17214191852824,0.5977124183006537,0.8831535793125197,Coal,Ministry of Coal,South Eastern Coalfields Limited [SECL],1
+385,353.21,97,1758.0,57.75295663600525,0.9174285714285714,1.6795676905574517,Coal,Ministry of Coal,Ministry of Coal,1
+334,138.69,48,912.0,29.96057818659658,0.4152395209580838,1.602105263157895,Coal,Ministry of Coal,Ministry of Coal,1
+316,308.84,86,1962.0,64.45466491458606,0.9773417721518988,1.334271151885831,Coal,Ministry of Coal,Western Coalfields Limited [WCL],1
+869,274.45,75,1852.0,60.84099868593955,0.3158227848101265,1.2327213822894167,Coal,Ministry of Coal,Ministry of Coal,1
+236,237.12,98,2017.0,66.26149802890933,1.0047457627118643,1.4789885969261278,Coal,Ministry of Coal,Western Coalfields Limited [WCL],1
+727,524.54,80,3519.0,115.60446780551904,0.7215130674002751,0.6920147769252629,Coal,Ministry of Coal,Western Coalfields Limited [WCL],1
+836,778.77,89,1314.0,43.16688567674113,0.931543062200957,2.061765601217656,Coal,Ministry of Coal,Northern Coalfields Limited [NCL],1
+999,458.01,46,1348.0,44.2838370565046,0.4584684684684684,1.038753709198813,Coal,Ministry of Coal,Northern Coalfields Limited [NCL],1
+570,81.29,16,1694.0,55.65045992115637,0.1426140350877193,0.287508854781582,Coal,Ministry of Coal,Eastern Coal Fields Limited [ECL],0
+611,577.46,85,3027.0,99.44152431011828,0.9451063829787236,0.8547737033366369,Coal,Ministry of Coal,South Eastern Coalfields Limited [SECL],1
+11816,5328.96,77,2582.0,84.82260183968462,0.4509952606635071,0.9077769171185128,Coal,Ministry of Coal,South Eastern Coalfields Limited [SECL],1
+607,178.82,71,2100.0,68.98817345597897,0.2945963756177924,1.029161904761905,Coal,Ministry of Coal,Singareni Collieries Company Limited [SCCL],1
+425,402.64,80,2799.0,91.95137976346912,0.9473882352941176,0.8700250089317614,Coal,Ministry of Coal,Singareni Collieries Company Limited [SCCL],1
+279,210.07,82,1769.0,58.1143232588699,0.7529390681003584,1.4110118711136237,Coal,Ministry of Coal,SECL - CIL,1
+298,46.39,20,1216.0,39.94743758212878,0.1556711409395973,0.5006578947368421,Coal,Ministry of Coal,Singareni Collieries Company Limited [SCCL],1
+442,203.15,63,2781.0,91.36005256241786,0.4596153846153846,0.6895792880258901,Coal,Ministry of Coal,Singareni Collieries Company Limited [SCCL],1
+492,202.18,40,1399.0,45.959264126149804,0.4109349593495935,0.8703359542530379,Coal,Ministry of Coal,Northern Coalfields Limited [NCL],1
+7612,4697.95,81,3527.0,115.86727989487515,0.6171768260641093,0.6990757017295153,Coal,Ministry of Coal,South Eastern Coalfields Limited [SECL],1
+2662,787.75,43,3651.0,119.94086727989487,0.2959241172051089,0.3585099972610244,Coal,Ministry of Coal,Bharat Coking Coal Limited [BCCL],1
+1230,624.17,81,2788.0,91.59001314060448,0.5074552845528455,0.8843758967001435,Coal,Ministry of Coal,BCCL - CIL,1
+340,190.65,70,1171.0,38.469119579500656,0.5607352941176471,1.8196413321947051,Coal,Ministry of Coal,Ministry of Coal,1
+1730,772.91,44,1601.0,52.59526938239159,0.4467687861271676,0.8365771392879451,Coal,Ministry of Coal,Northern Coalfields Limited [NCL],1
+320,367.6,79,2042.0,67.08278580814718,1.1487500000000002,1.1776493633692455,Coal,Ministry of Coal,Western Coalfields Limited [WCL],1
+511,488.57,76,2290.0,75.22996057818659,0.956105675146771,1.010235807860262,Coal,Ministry of Coal,Ministry of Coal,1
+5195,3455.65,54,2979.0,97.8646517739816,0.6651876804619827,0.5517824773413897,Coal,Ministry of Coal,Mahanadi Coalfields Limited (MCL),0
+1694,1278.66,42,2928.0,96.1892247043364,0.7548170011806375,0.4366393442622951,Coal,Ministry of Coal,Mahanadi Coalfields Limited (MCL),0
+244,44.64,28,1974.0,64.84888304862024,0.1829508196721311,0.43177304964539,Coal,Ministry of Coal,Ministry of Coal,1
+749,51.73,10,2251.0,73.94875164257556,0.0690654205607476,0.1352287872056863,Coal,Ministry of Coal,Eastern Coal Fields Limited [ECL],0
+237,159.21,87,812.0,26.6754270696452,0.6717721518987342,3.261428571428572,Coal,Ministry of Coal,Western Coalfields Limited [WCL],1
+502,302.2,59,13848.0,454.92772667542704,0.6019920318725099,0.1296909300982091,Coal,Ministry of Power,National Thermal Power Corporation [NTPC],0
+1581,599.18,34,2188.0,71.87910643889619,0.37898798228969,0.8365771392879451,Coal,Ministry of Power,Damodar Valley Corporation,0
+647,518.46,98,1215.0,39.91458607095926,0.8013292117465225,2.45524279835391,Construction,Ministry of Housing & Urban Affairs,Central Public Works Department [CPWD],1
+68,22.15,16,2188.0,71.87910643889619,0.325735294117647,0.8365771392879451,Education,Department of Higher Education,"Indian Institute of Technology, Bombay",1
+499,425.47,91,740.0,24.31011826544021,0.8526452905811623,3.7432972972972975,Education,Department of Higher Education,NIT Patna,1
+420,360.72,99,973.0,31.964520367936924,0.8588571428571429,3.097183967112025,Education,Department of Higher Education,IISC Bangalore,1
+246,185.83,93,2188.0,71.87910643889619,0.7554065040650407,0.8365771392879451,Education,Department of Higher Education,Banaras Hindu University,1
+495,413.57,86,757.0,24.868593955321945,0.8354949494949495,3.4581770145310435,Education,Department of Higher Education,"National Institute of Technology, Meghalaya",1
+425,484.52,96,1582.0,51.97109067017082,1.1400470588235294,1.847180783817952,Education,Department of Higher Education,"Indian Institute of Management, Jammu",1
+1006,615.95,66,1802.0,59.19842312746386,0.6122763419483102,1.1148945615982242,Education,Department of Higher Education,INDIAN INSTITUTE OF TECHNOLOGY PALAKKAD,1
+474,167.55,4,3589.0,117.904073587385,0.3534810126582278,0.0339258846475341,Education,Department of Higher Education,Ministry of Education,0
+491,301.44,76,2188.0,71.87910643889619,0.6139307535641548,0.8365771392879451,Education,Department of Higher Education,Gujarat,1
+252,183.36,78,1349.0,44.31668856767411,0.7276190476190477,1.7600593031875462,Education,Department of Higher Education,"Central University, Himachal Pradesh",1
+348,290.39,91,1368.0,44.94086727989488,0.8344540229885057,2.0248830409356726,Education,Department of Higher Education,"Indian intitue of Management, Amritsar",1
+262,164.4,71,2188.0,71.87910643889619,0.6274809160305344,0.8365771392879451,Education,Department of Higher Education,"Indian Institute of Technology, Hyderabad",1
+314,238.22,82,1617.0,53.120893561103806,0.7586624203821656,1.5436487322201609,Education,Department of Higher Education,Sikkim University,1
+618,509.24,94,1763.0,57.91721419185282,0.8240129449838188,1.623006239364719,Education,Department of Higher Education,"National Institute of Technology, Puducherry",1
+686,121.56,7,1461.0,47.99605781865966,0.177201166180758,0.145845311430527,Education,Department of Higher Education,Ministry of Education,0
+393,320.75,92,1870.0,61.4323258869908,0.8161577608142494,1.4975828877005348,Education,Department of Higher Education,"Indian Institute of Management, Sirmaur",1
+500,382.6,87,1740.0,57.16162943495401,0.7652,1.522,Education,Department of Higher Education,"Indian Institute of Technology, Kharagpur",1
+167,72.09,58,2188.0,71.87910643889619,0.4316766467065868,0.8365771392879451,Education,Department of Higher Education,"Indian Institute of Technology, Mandi",0
+1229,835.55,97,889.0,29.204993429697765,0.6798616761594792,3.321349831271091,Education,Department of Higher Education,"Indian Institutes of Science Education and Research, Behrampur",1
+287,310.0,86,2188.0,71.87910643889619,1.0801393728222997,0.8365771392879451,Education,Department of Higher Education,"Indian Institute of Technology, Kharagpur",1
+154,288.87,93,1624.0,53.350854139290405,1.8757792207792208,1.7431773399014778,Education,Department of Higher Education,Tezpur University,1
+1813,769.57,68,2188.0,71.87910643889619,0.4244732487589631,0.8365771392879451,Electricity Generation,Ministry of Coal,NLC India Limited [NLCIL],1
+218,160.93,46,2188.0,71.87910643889619,0.7382110091743119,0.8365771392879451,Electricity Generation,Ministry of Coal,NLC India Limited [NLCIL],1
+384,303.5,41,1075.0,35.31537450722733,0.7903645833333334,1.1609674418604652,Electricity Generation,Ministry of Coal,NLC India Limited [NLCIL],1
+17238,20135.5,92,2188.0,71.87910643889619,1.1680879452372666,0.8365771392879451,Electricity Generation,Ministry of Coal,NLC India Limited [NLCIL],1
+339,317.59,51,1741.0,57.19448094612352,0.9368436578171092,0.891694428489374,Electricity Generation,Ministry of Power,Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,0
+5492,4606.84,82,913.0,29.993429697766096,0.8388273852876912,2.7339320920043813,Electricity Generation,Ministry of Power,Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,1
+10439,11971.0,92,1767.0,58.04862023653088,1.1467573522368042,1.584878324844369,Electricity Generation,Ministry of Power,Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,1
+688,908.65,67,1861.0,61.136662286465175,1.3207122093023256,1.095905427189683,Electricity Generation,Ministry of Power,Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,1
+31876,3436.38,16,3286.0,107.95006570302232,0.1078046178943405,0.1482166768107121,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],0
+1037,1085.39,91,2188.0,71.87910643889619,1.0466634522661524,0.8365771392879451,Electricity Generation,Ministry of Power,Damodar Valley Corporation,1
+11089,12429.0,96,1793.0,58.90275952693823,1.1208404725403551,1.6298047964305635,Electricity Generation,Ministry of Power,THDC India Limited,1
+4288,3055.87,66,1644.0,54.00788436268069,0.71265625,1.222043795620438,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],1
+1811,1742.92,51,1886.0,61.95795006570302,0.9624075096631696,0.8231389183457053,Electricity Generation,Ministry of Power,Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,1
+8112,6916.1,71,2008.0,65.9658344283837,0.8525764299802762,1.076314741035857,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],1
+17112,17365.0,81,1947.0,63.96189224704336,1.0147849462365592,1.2663790446841294,Electricity Generation,Ministry of Power,National Thermal Power Corporation [NTPC],1
+1382,1266.0,45,-1807.0,-59.36268068331143,0.9160636758321272,0.8365771392879451,Electricity Generation,Ministry of Power,National Thermal Power Corporation [NTPC],1
+938,1554.15,90,1156.0,37.97634691195795,1.6568763326226017,2.3698961937716265,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],1
+5282,1009.79,24,1825.0,59.95400788436268,0.1911756910261264,0.4003068493150685,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],1
+6285,24685.1,96,2556.0,83.96846254927726,3.9276213206046138,1.1432863849765258,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],1
+2615,956.76,29,1908.0,62.680683311432325,0.3658738049713193,0.4626624737945493,Electricity Generation,Ministry of Power,Satluj Jal Vidyut Nigam [SJVN] Thermal Limited,1
+11844,3975.0,26,1740.0,57.16162943495401,0.335612968591692,0.4548505747126437,Electricity Generation,Ministry of Power,National Thermal Power Corporation [NTPC],1
+2978,7123.58,77,2188.0,71.87910643889619,2.392068502350571,0.8365771392879451,Electricity Generation,Ministry of Power,National Thermal Power Corporation [NTPC],1
+5748,4495.28,68,1826.0,59.98685939553219,0.7820598469032707,1.133581599123768,Electricity Generation,Ministry of Power,National Highways & Infrastructure Development Corporation Ltd. [NHIDCL],1
+4826,7939.82,98,5822.0,191.26149802890933,1.6452175714877746,0.512387495705943,Electricity Generation,Ministry of Power,THDC India Limited,1
+3860,4828.89,72,5229.0,171.78055190538765,1.2510077720207256,0.4191394148020654,Electricity Generation,Ministry of Power,THDC India Limited,1
+281,227.54,50,2188.0,71.87910643889619,0.8097508896797153,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+854,712.3,99,2188.0,71.87910643889619,0.8340749414519906,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+240,31.23,50,2188.0,71.87910643889619,0.130125,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+156,49.78,39,2188.0,71.87910643889619,0.3191025641025641,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,0
+827,619.5,85,2188.0,71.87910643889619,0.749093107617896,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Indian Oil Corporation Limited [IOCL],1
+656,465.73,84,2188.0,71.87910643889619,0.7099542682926829,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Indian Oil Corporation Limited [IOCL],0
+980,236.22,50,2188.0,71.87910643889619,0.2410408163265306,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+10088,7598.13,92,1095.0,35.972404730617605,0.7531849722442506,2.5575159817351603,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+829,297.77,62,2188.0,71.87910643889619,0.3591917973462002,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+678,675.25,67,2188.0,71.87910643889619,0.99594395280236,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,"Department of Water Resources, River Development & GR",1
+9028,7071.08,84,2188.0,71.87910643889619,0.7832388125830748,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+10228,9701.95,86,2188.0,71.87910643889619,0.9485676574110288,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+461,111.57,51,2188.0,71.87910643889619,0.2420173535791757,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited [HPCL],0
+43129,59524.4,87,2188.0,71.87910643889619,1.380147928308099,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,1
+677,518.22,77,2188.0,71.87910643889619,0.7654652880354506,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],1
+384,110.44,48,2188.0,71.87910643889619,0.2876041666666666,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited [HPCL],0
+2658,2192.68,94,2188.0,71.87910643889619,0.824936042136945,0.8365771392879451,Energy Storage,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+1028,792.24,83,1383.0,45.43363994743758,0.7706614785992218,1.826840202458424,Healthcare,Ministry of Health & Family Welfare,Ministry of Health & Family Welfare,1
+1828,1504.91,65,2213.0,72.70039421813404,0.8232549234135668,0.8940804338002711,Healthcare,Ministry of Health & Family Welfare,Central Public Works Department [CPWD],1
+1299,349.41,28,2188.0,71.87910643889619,0.2689838337182448,0.8365771392879451,Healthcare,Ministry of Health & Family Welfare,Ministry of Health & Family Welfare,1
+693,58.0,0,2513.0,82.55584756898817,0.0836940836940837,0.0,Healthcare,"Ministry of Ports, Shipping and Waterways",Mumbai Port Trust [MPT],1
+5369,3432.34,70,2188.0,71.87910643889619,0.6392885081020675,0.973857404021938,Inland Waterways,"Ministry of Ports, Shipping and Waterways",Inland Waterways Authority of India [IWAI],1
+1173,1971.0,80,4646.0,152.6281208935611,1.680306905370844,0.5241498062849764,Inland Waterways,Ministry of Railways,East Coast Railway [ECoR] - II,0
+2344,196.75,8,5642.0,185.34822601839684,0.0839377133105802,0.0431619992910315,Inland Waterways,Ministry of Railways,East Coast Railway [ECoR] - II,0
+748,10.43,1,4045.0,132.8843626806833,0.0139438502673796,0.0075253399258343,Inland Waterways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+166,135.0,65,2742.0,90.07884362680684,0.8132530120481928,0.7215900802334063,Metals & Mining,Ministry of Mines,National Aluminium Company Limited [NALCO],1
+4103,3913.98,75,2080.0,68.3311432325887,0.9539312698025836,1.0975961538461538,Metals & Mining,Ministry of Mines,National Aluminium Company Limited [NALCO],1
+1856,924.98,79,3135.0,102.98948751642575,0.4983728448275862,0.7670685805422648,Metals & Mining,Ministry of Mines,Hindustan Copper Limited [HCL],1
+1381,650.04,51,2513.0,82.55584756898817,0.4707023895727733,0.6177636291285317,Metals & Mining,Ministry of Mines,National Aluminium Company Limited [NALCO],1
+483,403.44,90,2758.0,90.60446780551904,0.8352795031055901,0.9933284989122552,Metals & Mining,Ministry of Mines,National Aluminium Company Limited [NALCO],1
+1700,65.44,2,2698.0,88.63337713534823,0.0384941176470588,0.0225648628613788,Metals & Mining,Ministry of Steel,National Mineral Development Corporation Limited [NMDC],0
+1421,1180.91,95,2188.0,71.87910643889619,0.8310415200562984,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited [HPCL],1
+8797,6768.36,85,2188.0,71.87910643889619,0.7693941116289644,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+1750,4650.0,99,2188.0,71.87910643889619,2.657142857142857,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+165,89.94,72,2188.0,71.87910643889619,0.5450909090909091,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Indian Oil Corporation Limited [IOCL],1
+228,9.01,20,2188.0,71.87910643889619,0.0395175438596491,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+277,185.18,67,2188.0,71.87910643889619,0.6685198555956678,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+14810,11728.0,87,2188.0,71.87910643889619,0.7918973666441593,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+367,339.19,93,2188.0,71.87910643889619,0.9242234332425068,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum and Natural Gas,1
+199,36.78,29,2188.0,71.87910643889619,0.1848241206030151,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+768,99.02,35,2188.0,71.87910643889619,0.1289322916666666,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+34627,23977.5,88,2188.0,71.87910643889619,0.6924509775608629,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+31580,1342.27,10,2188.0,71.87910643889619,0.0425037998733375,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Chennai Petroleum Corporation Limited [CPCL],1
+1377,329.43,26,2188.0,71.87910643889619,0.2392374727668845,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,0
+2628,332.52,26,2188.0,71.87910643889619,0.1265296803652968,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,0
+5535,3836.09,0,2188.0,71.87910643889619,0.6930605239385728,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+865,68.01,2,2188.0,71.87910643889619,0.0786242774566474,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+501,111.55,5,2188.0,71.87910643889619,0.2226546906187624,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+609,58.15,2,2188.0,71.87910643889619,0.0954844006568144,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+538,4.09,0,2188.0,71.87910643889619,0.0076022304832713,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+163,95.54,40,2188.0,71.87910643889619,0.5861349693251534,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+1420,162.47,6,2188.0,71.87910643889619,0.1144154929577464,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+151,8.77,2,2188.0,71.87910643889619,0.0580794701986754,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+1017,176.15,32,2188.0,71.87910643889619,0.1732055063913471,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+3638,396.42,21,2188.0,71.87910643889619,0.1089664650907091,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+3207,334.82,22,2188.0,71.87910643889619,0.1044028687246648,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+3919,392.59,14,2188.0,71.87910643889619,0.1001760653227864,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+16654,603.21,9,2188.0,71.87910643889619,0.0362201272967455,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+3685,234.12,11,2188.0,71.87910643889619,0.0635332428765264,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+621,137.71,21,2188.0,71.87910643889619,0.2217552334943639,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+341,279.19,50,2188.0,71.87910643889619,0.8187390029325513,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+431,326.12,85,2188.0,71.87910643889619,0.7566589327146171,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+423,287.49,78,2188.0,71.87910643889619,0.6796453900709221,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+209,65.97,62,2188.0,71.87910643889619,0.315645933014354,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+394,100.39,43,2188.0,71.87910643889619,0.2547969543147208,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+4144,3770.15,83,2188.0,71.87910643889619,0.9097852316602316,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+370,249.41,57,2188.0,71.87910643889619,0.6740810810810811,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,NRL,1
+1165,901.73,84,2188.0,71.87910643889619,0.7740171673819742,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,"Department of Water Resources, River Development & GR",1
+364,22.82,10,2188.0,71.87910643889619,0.0626923076923077,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+431,211.34,58,2188.0,71.87910643889619,0.4903480278422273,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+683,488.37,94,2188.0,71.87910643889619,0.7150366032210834,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+1031,853.7,87,2188.0,71.87910643889619,0.8280310378273521,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+1740,2237.5,90,2188.0,71.87910643889619,1.285919540229885,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+43367,1788.6,13,2188.0,71.87910643889619,0.0412433417114395,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+522,190.1,36,2188.0,71.87910643889619,0.3641762452107279,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Gas Authority of India Limited [GAIL],0
+412,430.83,84,2188.0,71.87910643889619,1.0457038834951455,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+1010,627.12,81,2188.0,71.87910643889619,0.6209108910891089,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,0
+240,34.4,37,2188.0,71.87910643889619,0.1433333333333333,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,0
+193,0.43,23,2188.0,71.87910643889619,0.0022279792746113,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,0
+160,77.06,64,2188.0,71.87910643889619,0.481625,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Hindustan Petroleum Corporation Limited,1
+2282,1800.61,63,2188.0,71.87910643889619,0.7890490797546011,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+389,46.94,37,2188.0,71.87910643889619,0.1206683804627249,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,1
+405,201.28,84,2188.0,71.87910643889619,0.4969876543209877,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],1
+165,129.27,70,2188.0,71.87910643889619,0.7834545454545455,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,1
+328,144.16,55,2188.0,71.87910643889619,0.4395121951219512,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,1
+6184,360.0,17,2188.0,71.87910643889619,0.0582147477360931,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+13805,8250.46,90,2188.0,71.87910643889619,0.5976428830134008,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+1487,776.61,61,2188.0,71.87910643889619,0.52226630800269,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],0
+34012,35498.3,96,2188.0,71.87910643889619,1.043699282606139,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+2915,4431.9,94,2188.0,71.87910643889619,1.520377358490566,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+202,55.46,45,2188.0,71.87910643889619,0.2745544554455446,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+205,19.86,39,2188.0,71.87910643889619,0.0968780487804878,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Chennai Petroleum Corporation Limited [CPCL],1
+3191,3074.01,89,2188.0,71.87910643889619,0.963337511751802,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+4679,188.88,4,2188.0,71.87910643889619,0.0403675999145116,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum and Natural Gas,0
+7392,6304.0,90,2188.0,71.87910643889619,0.8528138528138528,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+2329,820.24,48,2188.0,71.87910643889619,0.3521854873336196,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+1932,1552.37,98,2188.0,71.87910643889619,0.8035041407867495,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+7844,6495.6,95,2188.0,71.87910643889619,0.8280979092299847,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+9265,6375.02,85,2188.0,71.87910643889619,0.6880755531570427,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+12366,16502.4,75,2188.0,71.87910643889619,1.3344978165938866,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+173,148.0,87,2188.0,71.87910643889619,0.8554913294797688,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+1219,745.24,90,2188.0,71.87910643889619,0.6113535684987695,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+18936,12190.1,83,2188.0,71.87910643889619,0.6437526404731728,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+345,210.89,46,2188.0,71.87910643889619,0.6112753623188405,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+2585,564.58,58,2188.0,71.87910643889619,0.2184061895551257,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+1459,1043.9,70,2188.0,71.87910643889619,0.7154900616860864,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Indian Oil Corporation Limited [IOCL],1
+294,97.22,93,2188.0,71.87910643889619,0.3306802721088435,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,NRL,1
+385,132.73,63,2188.0,71.87910643889619,0.3447532467532467,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Mangalore Refinary and Petrochemicals Limited,0
+911,1004.0,97,2188.0,71.87910643889619,1.102085620197585,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Gas Authority of India Limited [GAIL],1
+1486,184.56,17,541.0,17.772667542706962,0.1241991924629878,0.9565249537892792,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+2380,1652.62,61,2188.0,71.87910643889619,0.6943781512605042,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+631,505.07,77,2188.0,71.87910643889619,0.8004278922345484,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+1163,1156.9,94,2188.0,71.87910643889619,0.9947549441100604,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],0
+886,765.43,73,2188.0,71.87910643889619,0.8639164785553047,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],0
+622,192.66,83,2188.0,71.87910643889619,0.3097427652733119,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Bharat Petroleum Corporation Limited [BPCL],0
+249,209.42,93,2188.0,71.87910643889619,0.8410441767068273,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],1
+260,1.11,25,2188.0,71.87910643889619,0.0042692307692307,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+837,205.78,49,2188.0,71.87910643889619,0.2458542413381123,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Oil and Natural Gas Corporation Limited [ONGC],0
+463,264.44,82,2188.0,71.87910643889619,0.5711447084233261,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,0
+340,88.08,24,2188.0,71.87910643889619,0.2590588235294118,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+4460,255.64,12,2188.0,71.87910643889619,0.0573183856502242,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,MinistryofPetroleumNaturalGas,0
+860,566.18,98,2188.0,71.87910643889619,0.6583488372093023,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum & Natural Gas,1
+2212,11.52,7,2188.0,71.87910643889619,0.0052079566003616,0.8365771392879451,Oil & Gas,Ministry of Petroleum & Natural Gas,Ministry of Petroleum and Natural Gas,0
+1686,342.96,40,3145.0,103.3180026281209,0.2034163701067615,0.387154213036566,Railways,Ministry of Coal,WR,0
+177,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,SECR,0
+793,894.16,50,4126.0,135.5453350854139,1.1275662042875156,0.3688802714493456,Railways,Ministry of Railways,Central Railway [CR] - II,0
+1035,1692.0,97,2772.0,91.06438896189223,1.6347826086956525,1.0651803751803752,Railways,Ministry of Railways,Central Railway [CR] - II,1
+1385,1102.48,77,3586.0,117.80551905387648,0.796014440433213,0.6536196319018406,Railways,Ministry of Railways,Central Railway [CR] - II,1
+540,724.75,80,3771.0,123.88304862023652,1.3421296296296297,0.6457703526915938,Railways,Ministry of Railways,Central Railway [CR] - II,0
+177,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,SECR,1
+177,0.76,2,2188.0,71.87910643889619,0.0042937853107344,0.8365771392879451,Railways,Ministry of Railways,SECR,0
+169,10.13,4,2188.0,71.87910643889619,0.0599408284023668,0.8365771392879451,Railways,Ministry of Railways,SECR,0
+962,132.63,16,1517.0,49.83574244415243,0.1378690228690228,0.3210547132498352,Railways,Ministry of Railways,Western Railway,0
+328,48.02,25,2188.0,71.87910643889619,0.1464024390243902,0.8365771392879451,Railways,Ministry of Railways,SECR,0
+638,969.0,80,3177.0,104.36925098554534,1.5188087774294672,0.7665092854894554,Railways,Ministry of Railways,Central Railway [CR] - II,1
+418,223.0,86,1491.0,48.98160315374507,0.5334928229665071,1.7557612340710933,Railways,Ministry of Railways,Western Railway [WR] - II,0
+1390,123.0,25,1855.0,60.939553219448094,0.0884892086330935,0.4102425876010782,Railways,Ministry of Railways,CAO/C/NCR,0
+2539,4725.34,92,9951.0,326.9053876478318,1.8611027963765263,0.2814269922620842,Railways,Ministry of Railways,Central Railways,0
+758,315.37,55,2132.0,70.03942181340341,0.4160554089709762,0.7852720450281427,Railways,Ministry of Railways,CAO/C/NCR,1
+1457,50.0,8,2252.0,73.98160315374507,0.0343170899107755,0.1081349911190053,Railways,Ministry of Railways,North Central Railway,1
+1605,1311.39,33,2102.0,69.053876478318,0.8170654205607477,0.4778877259752616,Railways,Ministry of Railways,East Central Railway [ECR] - II,1
+1378,670.74,35,1959.0,64.35611038107753,0.4867489114658926,0.5438489025012762,Railways,Ministry of Railways,South Western Railway [SWR] - II,0
+258,0.83,0,3165.0,103.97503285151116,0.0032170542635658,0.0,Railways,Ministry of Railways,CAO/C/ECoR,0
+950,507.02,86,1856.0,60.972404730617605,0.5337052631578947,1.4104741379310346,Railways,Ministry of Railways,North Eastern Railway [NER],1
+4940,1217.13,8,4410.0,144.87516425755584,0.2463825910931174,0.055219954648526,Railways,Ministry of Railways,North Eastern Railway [NER],1
+499,595.0,97,2101.0,69.02102496714849,1.192384769539078,1.4053688719657305,Railways,Ministry of Railways,Karnataka Rail Infrastructure Development Company Limited [K-RIDE],1
+407,317.0,75,2281.0,74.93429697766096,0.7788697788697788,1.000876808417361,Railways,Ministry of Railways,CAO/C/NR,1
+736,712.0,50,4017.0,131.96452036793693,0.967391304347826,0.3788897186955439,Railways,Ministry of Railways,Central Railway [CR] - II,0
+1591,0.75,0,2671.0,87.74638633377135,0.0004714016341923,0.0,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+1284,1298.0,80,3344.0,109.85545335085412,1.010903426791277,0.7282296650717703,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+250,118.0,15,2525.0,82.95006570302233,0.472,0.1808316831683168,Railways,Ministry of Railways,CAO/C/NCR,1
+13447,6391.15,59,6484.0,213.00919842312743,0.4752844500632111,0.2769833436150524,Railways,Ministry of Railways,RVNL - II,1
+2529,2051.69,94,2497.0,82.03022339027595,0.8112653222617635,1.1459191029235083,Railways,Ministry of Railways,RVNL - II,1
+471,187.33,57,1854.0,60.906701708278575,0.397728237791932,0.9358576051779935,Railways,Ministry of Railways,North Western Railway [NWR],0
+1376,218.0,18,2951.0,96.9448094612352,0.1584302325581395,0.1856726533378516,Railways,Ministry of Railways,South East Central Railway [SECR] - II,0
+210,0.02,0,2188.0,71.87910643889619,9.523809523809524e-05,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+297,193.22,30,4718.0,154.9934296977661,0.6505723905723906,0.1935565917761763,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,0
+1016,1113.75,70,2698.0,88.63337713534823,1.09621062992126,0.7897702001482579,Railways,Ministry of Railways,North Eastern Railway [NER],1
+1540,506.73,31,3241.0,106.47174770039422,0.3290454545454545,0.2911570502931194,Railways,Ministry of Railways,Northen Railway [NR],0
+963,906.0,95,4352.0,142.96977660972405,0.940809968847352,0.6644761029411764,Railways,Ministry of Railways,North Eastern Railway [NER],1
+1794,1800.85,80,6247.0,205.22339027595268,1.003818283166109,0.3898191131743237,Railways,Ministry of Railways,Western Railway [WR] - II,0
+241,71.0,0,4290.0,140.9329829172142,0.2946058091286307,0.0,Railways,Ministry of Railways,South East Central Railway [SECR] - II,0
+1209,405.31,9,5936.0,195.00657030223388,0.3352440033085194,0.0461522911051213,Railways,Ministry of Railways,Northeast Frontier Railway [NFR],0
+749,0.0,0,3348.0,109.9868593955322,0.0,0.0,Railways,Ministry of Railways,South Western Railway [SWR] - II,0
+1628,1440.85,82,5921.0,194.5137976346912,0.8850429975429975,0.4215639250126667,Railways,Ministry of Railways,RVNL - II,1
+819,471.0,86,1855.0,60.939553219448094,0.575091575091575,1.411234501347709,Railways,Ministry of Railways,North Western Railway [NWR],0
+969,411.0,45,2007.0,65.93298291721419,0.4241486068111455,0.6825112107623319,Railways,Ministry of Railways,North Western Railway [NWR],0
+747,392.0,39,-1127.0,-37.023653088042046,0.5247657295850067,0.8365771392879451,Railways,Ministry of Railways,North Central Railway,1
+493,234.48,9,2891.0,94.9737187910644,0.4756186612576065,0.094763057765479,Railways,Ministry of Railways,CR,1
+6663,5202.29,79,3500.0,114.98028909329828,0.7807729251088098,0.6870742857142857,Railways,Ministry of Railways,Northeast Frontier Railway [NFR],1
+351,494.0,98,2993.0,98.3245729303548,1.4074074074074074,0.9966989642499166,Railways,Ministry of Railways,North Eastern Railway [NER],1
+2081,2769.0,88,3010.0,98.88304862023652,1.3306102835175395,0.8899401993355482,Railways,Ministry of Railways,Central Railway [CR] - II,0
+3029,2458.15,85,3378.0,110.9724047306176,0.8115384615384615,0.7659561870929544,Railways,Ministry of Railways,South Eastern Railway - JH,1
+2445,3122.0,100,3927.0,129.00788436268067,1.2768916155419223,0.7751464222052458,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+1589,1541.7,92,2596.0,85.28252299605782,0.970232850849591,1.0787673343605546,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+2500,2033.31,70,2305.0,75.7227332457293,0.8133239999999999,0.9244251626898048,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+4060,3683.75,93,3497.0,114.88173455978976,0.9073275862068966,0.809528167000286,Railways,Ministry of Railways,Northeast Frontier Railway [NFR],0
+448,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+8964,8097.47,80,5770.0,189.5532194480946,0.9033322177599288,0.4220450606585789,Railways,Ministry of Railways,RVNL - II,1
+601,283.0,17,1824.0,59.92115637319316,0.4708818635607321,0.2837061403508772,Railways,Ministry of Railways,SR-ERS,0
+1473,2824.8,91,7529.0,247.33902759526936,1.917718940936864,0.3679160579094169,Railways,Ministry of Railways,East Central Railway [ECR] - II,1
+2842,1721.14,30,5112.0,167.93692509855452,0.6056087262491203,0.1786384976525821,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+190,0.0,0,1847.0,60.67674113009198,0.0,0.0,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,0
+1171,848.0,82,4991.0,163.96189224704335,0.7241673783091375,0.5001162091765178,Railways,Ministry of Railways,SECR,1
+4970,4271.55,72,2188.0,71.87910643889619,0.859466800804829,0.8365771392879451,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+686,536.04,59,2978.0,97.83180026281208,0.7813994169096209,0.6030758898589658,Railways,Ministry of Railways,East Central Railway [ECR] - II,0
+352,18.0,25,1491.0,48.98160315374507,0.0511363636363636,0.5103957075788061,Railways,Ministry of Railways,South Central Railway [SCR] - II,0
+819,471.0,98,2800.0,91.98423127463865,0.575091575091575,1.0654,Railways,Ministry of Railways,North Western Railway [NWR],0
+3733,4112.59,92,3197.0,105.0262812089356,1.1016849718724886,0.8759712230215828,Railways,Ministry of Railways,South Central Railway [SCR] - II,1
+890,391.73,89,-27.0,-0.8869908015768725,0.4401460674157303,0.8365771392879451,Railways,Ministry of Railways,Central Organisation for Railway Electrification [CORE],1
+2913,2751.0,83,5114.0,168.00262812089355,0.9443872296601442,0.4940398904966758,Railways,Ministry of Railways,North Central Railway,1
+2067,1908.49,74,4561.0,149.83574244415243,0.9233139816158684,0.4938741504056128,Railways,Ministry of Railways,East Central Railway [ECR] - I,1
+482,461.0,96,-7641.0,-251.0183968462549,0.9564315352697096,0.8365771392879451,Railways,Ministry of Railways,WR,1
+5060,5007.82,86,6209.0,203.9750328515112,0.989687747035573,0.4216202287002737,Railways,Ministry of Railways,RVNL - II,1
+744,969.05,95,2188.0,71.87910643889619,1.302486559139785,0.8365771392879451,Railways,Ministry of Railways,RVNL,1
+1878,2628.8,89,3927.0,129.00788436268067,1.3997870074547392,0.6898803157626687,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+7474,1658.03,22,4058.0,133.31143232588698,0.2218397109981268,0.165027106949236,Railways,Ministry of Railways,RVNL - II,0
+2450,1815.49,52,3862.0,126.87253613666228,0.7410163265306122,0.4098601760745728,Railways,Ministry of Railways,Central Railway [CR] - II,0
+1547,1308.2,90,3036.0,99.73718791064388,0.8456367162249515,0.9023715415019764,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+357,579.0,95,2342.0,76.93823915900131,1.6218487394957983,1.2347566182749787,Railways,Ministry of Railways,RVNL,0
+722,1100.0,70,2698.0,88.63337713534823,1.5235457063711912,0.7897702001482579,Railways,Ministry of Railways,CAO/C/II/NR,1
+1000,401.61,36,2188.0,71.87910643889619,0.40161,0.8365771392879451,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+819,588.32,75,2414.0,79.3035479632063,0.7183394383394384,0.9457332228666115,Railways,Ministry of Railways,East Central Railway [ECR] - I,1
+2002,1884.84,93,2008.0,65.9658344283837,0.9414785214785214,1.4098207171314745,Railways,Ministry of Railways,CAO/C/NCR,1
+4330,1989.0,53,2952.0,96.97766097240472,0.4593533487297921,0.5465176151761518,Railways,Ministry of Railways,North Central Railway,0
+2140,2124.15,88,2975.0,97.73324572930356,0.9925934579439252,0.9004100840336134,Railways,Ministry of Railways,SECR,1
+402,361.0,86,4294.0,141.06438896189223,0.8980099502487562,0.6096506753609688,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+4835,4361.23,59,6145.0,201.8725361366623,0.9020124095139608,0.2922636289666395,Railways,Ministry of Railways,RVNL - II,1
+493,3.0,1,2312.0,75.9526938239159,0.0060851926977687,0.0131660899653979,Railways,Ministry of Railways,WR,0
+825,770.18,83,4172.0,137.05650459921156,0.9335515151515152,0.6055896452540748,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+1000,1029.97,67,4233.0,139.0604467805519,1.02997,0.4818048665249232,Railways,Ministry of Railways,Eastern Railway [ER] - I,0
+350,0.0,0,1056.0,34.69119579500657,0.0,0.0,Railways,Ministry of Railways,Eastern Railway [ER] - I,0
+836,9.29,1,2188.0,71.87910643889619,0.0111124401913875,0.8365771392879451,Railways,Ministry of Railways,Central Railway [CR] - II,0
+2478,3295.49,90,2128.0,69.90801576872536,1.3298991121872477,1.287406015037594,Railways,Ministry of Railways,West Central Railway WCR I,1
+1248,1537.77,92,3105.0,102.00394218134034,1.2321875,0.901925925925926,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+1953,2915.49,90,4352.0,142.96977660972405,1.492826420890937,0.6295036764705882,Railways,Ministry of Railways,South Central Railway [SCR] - II,1
+614,479.22,55,2082.0,68.39684625492772,0.7804885993485342,0.8041306436119117,Railways,Ministry of Railways,East Central Railway [ECR] - I,1
+3250,3176.46,97,3129.0,102.79237844940867,0.9773723076923077,0.9436497283477148,Railways,Ministry of Railways,RVNL - II,1
+3055,2574.54,94,939.0,30.847568988173453,0.8427299509001637,3.0472417465388717,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+3792,4983.45,89,11963.0,393.0026281208935,1.3142009493670883,0.2264615899021984,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,0
+1626,2060.97,92,7421.0,243.79106438896187,1.2675092250922508,0.3773723217895163,Railways,Ministry of Railways,East Central Railway [ECR] - II,1
+191,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,Indian Railway,0
+2362,1787.49,68,4376.0,143.75821287779235,0.7567696867061812,0.4730164533820841,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+2501,1264.18,29,6940.0,227.98948751642573,0.5054698120751699,0.1271988472622478,Railways,Ministry of Railways,South Central Railway [SCR] - II,0
+813,292.15,15,1458.0,47.89750328515112,0.3593480934809347,0.3131687242798354,Railways,Ministry of Railways,Southern Railway [SR] - II,0
+304,214.0,65,2841.0,93.3311432325887,0.7039473684210527,0.6964449137627595,Railways,Ministry of Railways,North Central Railway,1
+8914,4971.65,70,7371.0,242.1484888304862,0.5577350235584474,0.2890788224121557,Railways,Ministry of Railways,North Central Railway,1
+473,284.26,4,1768.0,58.08147174770039,0.6009725158562368,0.068868778280543,Railways,Ministry of Railways,South Eastern Railway [SER] - I,1
+238,118.0,55,2222.0,72.99605781865965,0.4957983193277311,0.7534653465346536,Railways,Ministry of Railways,CAO/C/NR,1
+342,0.0,0,1916.0,62.94349540078844,0.0,0.0,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+1160,1713.38,71,3910.0,128.44940867279894,1.477051724137931,0.5527468030690538,Railways,Ministry of Railways,South Central Railway [SCR] - II,1
+297,123.17,15,5203.0,170.92641261498028,0.4147138047138047,0.0877570632327503,Railways,Ministry of Railways,South Western Railway [SWR] - II,0
+5961,4928.62,94,3308.0,108.67279894875163,0.8268109377621204,0.864981862152358,Railways,Ministry of Railways,RVNL - II,1
+844,693.0,68,1534.0,50.39421813403416,0.8210900473933649,1.349361147327249,Railways,Ministry of Railways,Western Railway [WR] - II,1
+262,203.0,58,4594.0,150.91984231274637,0.7748091603053435,0.384309969525468,Railways,Ministry of Railways,SECR,1
+359,40.0,1,3231.0,106.14323258869908,0.1114206128133704,0.0094212318167749,Railways,Ministry of Railways,Southern Railway [SR] - I,0
+2649,1399.0,62,4041.0,132.75295663600525,0.5281238203095507,0.4670329126453848,Railways,Ministry of Railways,North Central Railway,1
+311,208.0,92,2289.0,75.19710906701708,0.6688102893890675,1.2234512887723896,Railways,Ministry of Railways,Western Railway,0
+33690,2246.15,16,3196.0,104.99342969776608,0.0666711190264173,0.1523904881101377,Railways,Ministry of Railways,Mumbai Rail Vikas Corporation Ltd.[MRVC],0
+8087,7364.0,87,2152.0,70.69645203679369,0.9105972548534684,1.2306133828996284,Railways,Ministry of Railways,Mumbai Rail Vikas Corporation Ltd.[MRVC],1
+10947,5057.67,60,1947.0,63.96189224704336,0.4620142504795834,0.9380585516178738,Railways,Ministry of Railways,Mumbai Rail Vikas Corporation Ltd.[MRVC],1
+108000,78690.9,53,4536.0,149.01445466491458,0.7286194444444444,0.3556701940035273,Railways,Ministry of Railways,National High Speed Rail Corporation [NHSRC],1
+435,901.0,56,2188.0,71.87910643889619,2.071264367816092,0.8365771392879451,Railways,Ministry of Railways,Northeast Frontier Railway [NFR],1
+1586,1586.82,99,2313.0,75.9855453350854,1.0005170239596468,1.3028793774319067,Railways,Ministry of Railways,East Central Railway [ECR] - II,1
+462,75.0,7,2188.0,71.87910643889619,0.1623376623376623,0.8365771392879451,Railways,Ministry of Railways,WR,0
+2312,2179.0,54,5539.0,181.96452036793693,0.9424740484429066,0.2967611482217007,Railways,Ministry of Railways,South Central Railway [SCR] - II,1
+713,598.38,80,6459.0,212.1879106438896,0.8392426367461431,0.3770243071682923,Railways,Ministry of Railways,Southern Railway [SR] - II,1
+1400,1472.0,80,2283.0,75.0,1.0514285714285714,1.0666666666666669,Railways,Ministry of Railways,MRIDC,0
+2018,1848.0,74,15616.0,513.0091984231275,0.9157581764122894,0.1442469262295082,Railways,Ministry of Railways,Northen Railway [NR],1
+2400,2188.0,65,2491.0,81.83311432325887,0.9116666666666666,0.7942994781212365,Railways,Ministry of Railways,South Eastern Railway [SER] - I,1
+2650,4152.4,96,7215.0,237.02365308804204,1.566943396226415,0.405022869022869,Railways,Ministry of Railways,Northeast Frontier Railway [NFR],1
+437,43.0,15,2188.0,71.87910643889619,0.0983981693363844,0.8365771392879451,Railways,Ministry of Railways,SECR,0
+410,6.0,4,1825.0,59.95400788436268,0.0146341463414634,0.066717808219178,Railways,Ministry of Railways,PCE/WR,0
+1942,3412.98,67,5367.0,176.31406044678053,1.7574562306900103,0.3800037264766164,Railways,Ministry of Railways,Western Railway [WR] - II,0
+2565,2063.57,66,4017.0,131.96452036793693,0.8045107212475634,0.500134428678118,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+495,306.0,46,3286.0,107.95006570302232,0.6181818181818182,0.4261229458307973,Railways,Ministry of Railways,Western Railway [WR] - II,0
+1096,1056.18,89,2215.0,72.76609724047306,0.9636678832116788,1.223097065462754,Railways,Ministry of Railways,Western Railway [WR] - II,0
+170,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,SECR,0
+4830,2764.13,32,5781.0,189.91458607095925,0.5722836438923395,0.1684967998616156,Railways,Ministry of Railways,"Metro Railway, Kolkata",1
+955,118.0,2,2188.0,71.87910643889619,0.1235602094240837,0.8365771392879451,Railways,Ministry of Railways,CR,1
+336,74.32,81,2188.0,71.87910643889619,0.2211904761904761,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+308,267.83,60,2556.0,83.96846254927726,0.8695779220779221,0.7145539906103286,Railways,Ministry of Railways,South Western Railway [SWR] - II,0
+307,82.0,8,2952.0,96.97766097240472,0.2671009771986971,0.0824932249322493,Railways,Ministry of Railways,PCE/WR,0
+734,475.73,99,6103.0,200.4927726675427,0.6481335149863761,0.4937833852203834,Railways,Ministry of Railways,Southern Railways [SR] - construction,1
+1178,1489.5,85,2772.0,91.06438896189223,1.2644312393887946,0.9334054834054832,Railways,Ministry of Railways,South Eastern Railway [SER] - I,1
+2555,763.08,48,5114.0,168.00262812089355,0.2986614481409002,0.2857098161908487,Railways,Ministry of Railways,Eastern Railway [ER] - I,0
+168,69.85,82,966.0,31.734559789750328,0.4157738095238095,2.5839337474120083,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,0
+188,141.91,100,2188.0,71.87910643889619,0.7548404255319149,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+3627,6548.0,84,3185.0,104.63206307490144,1.8053487730907083,0.8028131868131869,Railways,Ministry of Railways,Central Railway [CR] - II,1
+152,20.0,68,1154.0,37.91064388961892,0.131578947368421,1.7936915077989604,Railways,Ministry of Railways,PCE/WR,0
+1081,731.0,72,1850.0,60.77529566360053,0.6762257169287696,1.1846918918918918,Railways,Ministry of Railways,Western Railway [WR] - II,0
+3545,3163.08,95,3036.0,99.73718791064388,0.8922651622002821,0.9525032938076416,Railways,Ministry of Railways,South East Central Railway [SECR] - II,1
+3032,3592.92,70,9035.0,296.81340341655715,1.185,0.2358384061981184,Railways,Ministry of Railways,West Central Railway [WCR] - II,1
+2374,1777.0,85,3197.0,105.0262812089356,0.7485256950294861,0.809321238661245,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+5678,4314.0,87,6938.0,227.92378449408676,0.7597745685100388,0.3817065436725281,Railways,Ministry of Railways,Western Railway [WR] - II,1
+2496,1691.88,67,2739.0,89.98028909329828,0.6778365384615385,0.7446075209930633,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+480,0.33,4,2188.0,71.87910643889619,0.0006875,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+302,381.0,50,3561.0,116.98423127463865,1.2615894039735098,0.4274080314518393,Railways,Ministry of Railways,South Central Railway [SCR] - I,0
+352,239.01,59,1610.0,52.890932982917214,0.6790056818181818,1.1155031055900622,Railways,Ministry of Railways,North Western Railway [NWR],0
+38953,24645.2,65,3338.0,109.65834428383704,0.6326906785099993,0.5927501497902936,Railways,Ministry of Railways,RVNL - II,1
+245,82.0,35,1490.0,48.94875164257556,0.3346938775510204,0.7150335570469799,Railways,Ministry of Railways,South Eastern Railway [SER] - I,0
+1216,2039.0,91,2855.0,93.79106438896189,1.6768092105263157,0.9702416812609458,Railways,Ministry of Railways,East Central Railway [ECR] - II,1
+1320,457.35,3,3529.0,115.9329829172142,0.3464772727272727,0.0258770189855483,Railways,Ministry of Railways,North Eastern Railway [NER],0
+462,178.45,6,3520.0,115.63731931668856,0.3862554112554112,0.0518863636363636,Railways,Ministry of Railways,Eastern Railway [ER] - I,0
+735,585.09,81,382.0,12.54927726675427,0.7960408163265307,6.45455497382199,Railways,Ministry of Railways,East Central Railway [ECR] - I,1
+735,605.0,78,9406.0,309.0013140604468,0.8231292517006803,0.2524261109929832,Railways,Ministry of Railways,East Central Railway [ECR] - I,1
+519,337.03,82,2188.0,71.87910643889619,0.649383429672447,0.8365771392879451,Railways,Ministry of Railways,East Central Railway [ECR] - I,1
+670,102.0,12,2613.0,85.84099868593955,0.1522388059701492,0.1397933409873708,Railways,Ministry of Railways,PCE/WR,0
+350,87.0,32,2891.0,94.9737187910644,0.2485714285714285,0.3369353164994811,Railways,Ministry of Railways,PCE/WR,0
+500,561.26,80,3803.0,124.93429697766096,1.12252,0.6403365763870629,Railways,Ministry of Railways,West Central Railway [WCR] - II,0
+304,134.0,35,1216.0,39.94743758212878,0.4407894736842105,0.8761513157894737,Railways,Ministry of Railways,North Western Railway [NWR],1
+1454,69.58,11,2188.0,71.87910643889619,0.0478541953232462,0.8365771392879451,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+7877,8883.6,80,2039.0,66.98423127463863,1.1277897676780502,1.194310936733693,Railways,Ministry of Railways,Indian Railway Construction International Limited [IRCON],1
+905,1150.0,10,3370.0,110.7095926412615,1.270718232044199,0.0903264094955489,Railways,Ministry of Railways,WR,0
+440,390.03,75,2188.0,71.87910643889619,0.8864318181818182,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+495,29.5,1,3256.0,106.96452036793691,0.0595959595959596,0.0093488943488943,Railways,Ministry of Railways,CAO/C/ECoR,1
+1928,1902.91,47,7670.0,251.9710906701708,0.9869865145228216,0.1865293350717079,Railways,Ministry of Railways,East Coast Railway [ECoR] - II,1
+1189,1287.05,90,6574.0,215.9658344283837,1.0824642556770394,0.4167325829023426,Railways,Ministry of Railways,Eastern Railway [ER] - I,1
+2798,1891.9,14,2932.0,96.32063074901446,0.6761615439599714,0.1453478854024556,Railways,Ministry of Railways,North Western Railway [NWR],0
+2595,3142.35,92,3059.0,100.49277266754272,1.2109248554913294,0.9154887218045112,Railways,Ministry of Railways,South Central Railway [SCR] - II,1
+8975,4950.0,88,3414.0,112.1550591327201,0.5515320334261838,0.7846280023432923,Railways,Ministry of Railways,RVNL - II,1
+3631,1113.53,18,2993.0,98.3245729303548,0.3066730928118975,0.1830671566989642,Railways,Ministry of Railways,Southern Railway [SR] - II,1
+6339,4166.47,41,2188.0,71.87910643889619,0.6572755955197981,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+1432,2451.0,46,2407.0,79.0735873850197,1.7115921787709498,0.5817366015787288,Railways,Ministry of Railways,SR-ERS,1
+1876,516.17,13,1979.0,65.01314060446781,0.2751439232409381,0.1999595755432036,Railways,Ministry of Railways,South Western Railway [SWR] - II,1
+415,364.0,96,1491.0,48.98160315374507,0.8771084337349397,1.959919517102616,Railways,Ministry of Railways,PCE/WR,0
+647,870.0,91,3187.0,104.69776609724047,1.3446676970633693,0.8691684970191402,Railways,Ministry of Railways,South Central Railway [SCR] - II,1
+6654,5922.0,90,3020.0,99.21156373193166,0.8899909828674482,0.9071523178807948,Railways,Ministry of Railways,RVNL - II,1
+4803,5722.01,89,3856.0,126.6754270696452,1.1913408286487612,0.7025829875518672,Railways,Ministry of Railways,RVNL - II,0
+1886,706.28,49,3605.0,118.42969776609723,0.3744856839872746,0.413747572815534,Railways,Ministry of Railways,South East Central Railway,0
+3445,3002.93,50,3754.0,123.3245729303548,0.871677793904209,0.4054342035162493,Railways,Ministry of Railways,Central Railway [CR] - II,0
+51101,124623.0,96,5145.0,169.0210249671485,2.438758537014931,0.5679766763848396,Railways,Ministry of Railways,DFCCIL,1
+176,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+384,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Railways,Ministry of Railways,EDTK[MC]/RB,1
+314,144.0,59,2101.0,69.02102496714849,0.4585987261146497,0.854811994288434,Railways,Ministry of Railways,Karnataka Rail Infrastructure Development Company Limited [K-RIDE],1
+32850,0.0,0,2370.0,77.8580814717477,0.0,0.0,Real Estate,Ministry of Housing & Urban Affairs,National Buildings Construction Corporation [NBCC],1
+493,252.45,82,2930.0,96.25492772667542,0.5120689655172413,0.8519044368600683,Real Estate,Ministry of Railways,South Western Railway [SWR] - II,0
+298,399.52,83,2188.0,71.87910643889619,1.3406711409395973,0.8365771392879451,Shipping,"Ministry of Ports, Shipping and Waterways","Haldia Dock Complex, Syama Prasad Mookerjee Port Authority",1
+3005,1149.79,40,2048.0,67.27989487516426,0.3826256239600665,0.59453125,Shipping,"Ministry of Ports, Shipping and Waterways",Paradip Port Trust [PPT],1
+900,65.0,0,2188.0,71.87910643889619,0.0722222222222222,0.8365771392879451,Shipping,"Ministry of Ports, Shipping and Waterways",Mumbai Port Trust [MPT],0
+1105,736.47,96,1210.0,39.7503285151117,0.6664886877828055,2.415074380165289,Steel,Ministry of Steel,Steel Authority of India Limited [SAIL],1
+1034,883.23,51,946.0,31.07752956636005,0.8541876208897485,1.641057082452431,Steel,Ministry of Steel,Steel Authority of India Limited [SAIL],1
+2907,3012.02,84,2789.0,91.62286465177398,1.036126590987272,0.9168017210469702,Steel,Ministry of Steel,National Mineral Development Corporation Limited [NMDC],1
+514,220.42,69,664.0,21.81340341655716,0.4288326848249027,3.1631927710843373,Steel,Ministry of Steel,Steel Authority of India Limited [SAIL],1
+337,225.71,97,684.0,22.47043363994744,0.6697626112759644,4.316783625730994,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+28466,8332.52,92,1246.0,40.93298291721419,0.2927183306400618,2.2475762439807383,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+422,126.45,96,2188.0,71.87910643889619,0.2996445497630332,0.8365771392879451,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+61109,41486.1,81,2234.0,73.39027595269383,0.6788869070022419,1.1036884512085945,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+1578,596.17,87,2188.0,71.87910643889619,0.3778010139416983,0.8365771392879451,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+645,522.88,90,2188.0,71.87910643889619,0.8106666666666666,0.8365771392879451,Telecommunication,Department of Telecommunications,BSNL,1
+461,166.02,81,2188.0,71.87910643889619,0.3601301518438178,0.8365771392879451,Telecommunication,Department of Telecommunications,BSNL,1
+24545,8333.37,96,2188.0,71.87910643889619,0.3395139539621104,0.8365771392879451,Telecommunication,Department of Telecommunications,BSNL,1
+3685,1101.39,79,732.0,24.0473061760841,0.2988846675712348,3.285191256830601,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+972,208.25,98,896.0,29.43495400788436,0.2142489711934156,3.329375,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+1255,284.04,89,872.0,28.64651773981603,0.2263266932270916,3.106834862385321,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+26316,9291.8,72,694.0,22.798948751642573,0.3530855753153974,3.158040345821326,Telecommunication,Department of Telecommunications,Department of Telecommunications [DoT],1
+248,236.91,98,1957.0,64.2904073587385,0.9552822580645162,1.5243331630045989,Telecommunication,Department of Telecommunications,National Communication Academy - Finance (Erstwhile NICF),1
+240,179.63,100,2188.0,71.87910643889619,0.7484583333333333,0.8365771392879451,Telecommunication,Department of Telecommunications,BSNL,1
+5178,4470.0,97,689.0,22.634691195795007,0.8632676709154113,4.285457184325109,"Tourism, Hospitality & Wellness",Department for Promotion of Industry & Internal Trade,India International Convention & Expo Centre,1
+573,487.35,66,1864.0,61.23521681997372,0.8505235602094241,1.0778111587982833,"Tourism, Hospitality & Wellness","Ministry of Ports, Shipping and Waterways",Indian Port Rail & Ropeway Corporation Ltd. [IPRCL],1
+164,50.72,39,879.0,28.876478318002626,0.3092682926829268,1.3505802047781572,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+4754,7321.07,81,-833.0,-27.365308804204997,1.5399810685738324,0.8365771392879451,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+967,894.76,95,651.0,21.38633377135348,0.9252947259565668,4.442089093701997,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+5111,5253.47,96,1491.0,48.98160315374507,1.027875171199374,1.959919517102616,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+4546,4148.46,93,515.0,16.918528252299605,0.9125516937967444,5.496932038834951,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+1168,1013.39,91,741.0,24.342969776609724,0.8676284246575342,3.738245614035088,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+2821,2454.26,84,741.0,24.342969776609724,0.8699964551577456,3.450688259109312,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+2000,1314.8,59,546.0,17.936925098554532,0.6574,3.289304029304029,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+1249,820.26,78,734.0,24.113009198423125,0.6567333867093675,3.2347683923705723,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+3752,1500.72,21,730.0,23.98160315374507,0.3999786780383795,0.8756712328767124,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+318,286.31,99,1184.0,38.89618922470434,0.9003459119496855,2.5452364864864863,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+679,81.48,18,730.0,23.98160315374507,0.12,0.7505753424657535,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],0
+224,22.44,9,616.0,20.2365308804205,0.1001785714285714,0.4447402597402597,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+334,70.44,22,761.0,25.0,0.2108982035928143,0.88,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+2998,1592.11,49,730.0,23.98160315374507,0.531057371581054,2.043232876712329,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+2056,1336.4,55,730.0,23.98160315374507,0.65,2.293424657534247,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+2191,1740.6,77,581.0,19.086727989487517,0.7944317663167503,4.03421686746988,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+1796,1201.17,79,552.0,18.134034165571617,0.6688028953229399,4.356449275362319,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+2211,1780.53,72,548.0,18.00262812089356,0.8053052917232022,3.9994160583941607,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+428,107.07,46,592.0,19.44809461235217,0.2501635514018691,2.3652702702702704,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+689,585.42,93,1185.0,38.92904073587385,0.84966618287373,2.388962025316456,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+331,75.92,28,851.0,27.95663600525624,0.2293655589123867,1.0015511163337252,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+3547,3121.3,94,738.0,24.24441524310118,0.8799830842965887,3.877181571815719,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+289,202.1,59,1036.0,34.03416557161629,0.6993079584775086,1.7335521235521236,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+1666,2139.28,95,568.0,18.65965834428384,1.2840816326530613,5.091197183098592,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+359,330.71,93,606.0,19.90801576872536,0.9211977715877436,4.671485148514852,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+1433,1341.7,93,552.0,18.134034165571617,0.9362875087229588,5.128478260869565,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+548,10.96,4,720.0,23.653088042049934,0.02,0.1691111111111111,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],0
+386,378.16,96,302.0,9.921156373193169,0.9796891191709846,9.676291390728476,Transmission & Distribution,Ministry of Power,Power Grid Corporation of India Limited [POWERGRID],1
+8380,6055.19,57,1826.0,59.98685939553219,0.7225763723150358,0.9502081051478642,Urban Public Transport,Ministry of Housing & Urban Affairs,Uttar Pradesh metro rail corporation [UPMRC],1
+10773,11857.9,99,1230.0,40.40735873850197,1.100705467372134,2.450048780487805,Urban Public Transport,Ministry of Housing & Urban Affairs,Gujarat Metro Rail Corporation Limited [GMRCL],1
+5384,4151.57,87,1849.0,60.74244415243101,0.7710939821693907,1.432276906435911,Urban Public Transport,Ministry of Housing & Urban Affairs,Gujarat Metro Rail Corporation Limited [GMRCL],1
+6941,3116.75,43,1460.0,47.96320630749014,0.449034721221726,0.8965205479452055,Urban Public Transport,Ministry of Housing & Urban Affairs,Madhya Pradesh Metro Rail Co Limited [MPMRCL],1
+14788,8424.54,53,1849.0,60.74244415243101,0.5696875845279957,0.8725365062195781,Urban Public Transport,Ministry of Housing & Urban Affairs,Bengaluru Metro Rail,0
+26405,29478.0,94,2586.0,84.95400788436268,1.1163794735845485,1.1064810518174788,Urban Public Transport,Ministry of Housing & Urban Affairs,Bengaluru Metro Rail,1
+24949,15423.1,68,2188.0,71.87910643889619,0.6181850975991022,0.8365771392879451,Urban Public Transport,Ministry of Housing & Urban Affairs,Delhi Metro Rail Corporation Limited [DMRC],1
+7501,3839.27,54,1460.0,47.96320630749014,0.5118344220770564,1.1258630136986305,Urban Public Transport,Ministry of Housing & Urban Affairs,Madhya Pradesh Metro Rail Co Limited [MPMRCL],1
+11076,9079.81,73,1826.0,59.98685939553219,0.8197733838931022,1.2169331872946332,Urban Public Transport,Ministry of Housing & Urban Affairs,Uttar Pradesh metro rail corporation [UPMRC],1
+1957,306.45,10,1460.0,47.96320630749014,0.1565917220235053,0.2084931506849315,Urban Public Transport,Ministry of Housing & Urban Affairs,CSPCC Projects,0
+23136,27519.1,92,3543.0,116.39290407358736,1.1894493430152142,0.7904261924922383,Urban Public Transport,Ministry of Housing & Urban Affairs,Mumbai Metro Rail Corporation Limited [MMRC],1
+13366,4039.77,40,1825.0,59.95400788436268,0.3022422564716445,0.6671780821917808,Urban Public Transport,Ministry of Housing & Urban Affairs,Patna Metro Rail Corporation Ltd. [PMRCL],1
+12020,7386.41,68,1849.0,60.74244415243101,0.6145099833610649,1.1194808004326664,Urban Public Transport,Ministry of Housing & Urban Affairs,Gujarat Metro Rail Corporation Limited [GMRCL],1
+2298,393.0,17,6135.0,201.54402102496715,0.171018276762402,0.0843488182559087,Urban Public Transport,Ministry of Railways,RVNL - II,0
+842,208.64,69,2188.0,71.87910643889619,0.2477909738717339,0.8365771392879451,Waste & Water,"Department of Water Resources, River Development & GR",National Mission for Clean Ganga,1
+413,126.67,0,2188.0,71.87910643889619,0.3067070217917675,0.8365771392879451,Waste & Water,"Department of Water Resources, River Development & GR",National Mission for Clean Ganga,1
+155,96.17,92,2188.0,71.87910643889619,0.6204516129032258,0.8365771392879451,Waste & Water,"Department of Water Resources, River Development & GR",National Mission for Clean Ganga,1
+691,0.0,27,1700.0,55.84756898817346,0.0,0.4834588235294118,Waste & Water,"Department of Water Resources, River Development & GR",National Mission for Clean Ganga,1
+230,261.48,97,2188.0,71.87910643889619,1.1368695652173917,0.8365771392879451,Waste & Water,"Department of Water Resources, River Development & GR",National Mission for Clean Ganga,1
+305,346.44,95,2188.0,71.87910643889619,1.1358688524590164,0.8365771392879451,Waste & Water,"Department of Water Resources, River Development & GR",National Mission for Clean Ganga,1
+741,3218.3,100,2188.0,71.87910643889619,4.343184885290149,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation & Water Resources-UP,0
+334,803.89,100,2188.0,71.87910643889619,2.40685628742515,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+210,1697.94,97,2188.0,71.87910643889619,8.085428571428572,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+1229,1807.2,79,2188.0,71.87910643889619,1.4704637917005696,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-MP,1
+751,777.99,74,2188.0,71.87910643889619,1.0359387483355529,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-MP,1
+1353,2689.7,98,2188.0,71.87910643889619,1.9879526977087951,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+256,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR","Department of Water Resources, River Development & GR",1
+691,978.51,87,2188.0,71.87910643889619,1.4160781476121562,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+744,252.0,50,1004.0,32.98291721419185,0.3387096774193548,1.51593625498008,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+7196,13533.3,72,750.0,24.638633377135346,1.8806698165647584,2.9222400000000004,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+397,610.89,98,2188.0,71.87910643889619,1.538765743073048,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-AP,1
+1331,4491.08,92,2188.0,71.87910643889619,3.374214876033058,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+567,2629.74,62,2188.0,71.87910643889619,4.637989417989417,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-OR,1
+760,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+8201,4558.89,87,2188.0,71.87910643889619,0.5558944031215706,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+989,2563.56,79,2188.0,71.87910643889619,2.592072800808898,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+460,616.93,71,2188.0,71.87910643889619,1.3411521739130434,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-CT,1
+974,1069.82,90,3955.0,129.92772667542707,1.098377823408624,0.692692793931732,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+256,1324.78,64,2188.0,71.87910643889619,5.174921875,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+1061,4415.24,82,2188.0,71.87910643889619,4.161394910461828,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation & Water Resources-UP,1
+211,623.5,73,2188.0,71.87910643889619,2.954976303317536,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+1622,142.1,32,2188.0,71.87910643889619,0.0876078914919852,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR","Department of Water Resources, River Development & GR",1
+648,172.56,3,2188.0,71.87910643889619,0.2662962962962963,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water resource-mp,1
+10151,24347.8,83,4836.0,158.86990801576871,2.398561718057334,0.5224400330851944,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-AP,1
+571,469.66,44,2188.0,71.87910643889619,0.822521891418564,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-BR,1
+848,690.49,69,2188.0,71.87910643889619,0.8142570754716981,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+1402,1839.76,100,2188.0,71.87910643889619,1.3122396576319544,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+1441,2962.99,80,1974.0,64.84888304862024,2.0562040249826508,1.2336372847011146,Water Resources,"Department of Water Resources, River Development & GR",Department of Water Resources-PB,1
+353,869.11,95,2188.0,71.87910643889619,2.4620679886685557,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-AP,1
+5022,4954.99,90,2188.0,71.87910643889619,0.9866567104739148,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR","Narmada and Water Resources, Water Supply and Kalpsar Department-GJ",1
+20718,31767.6,93,2188.0,71.87910643889619,1.5333333333333332,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR","Narmada and Water Resources, Water Supply and Kalpsar Department-GJ",1
+1673,0.0,0,2188.0,71.87910643889619,0.0,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation & Water Resources-UP,1
+2286,2072.33,80,4525.0,148.65308804204992,0.9065310586176728,0.5381657458563537,Water Resources,"Department of Water Resources, River Development & GR",Department of Water Resources-PB,1
+736,940.7,96,2188.0,71.87910643889619,1.278125,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Irrigation and CAD-TG,1
+3808,5550.74,69,2188.0,71.87910643889619,1.4576523109243698,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of Water Resources-JH,1
+2408,2436.43,80,2188.0,71.87910643889619,1.0118064784053156,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+1449,1837.91,98,-733.0,-24.08015768725361,1.2683988957902002,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources Department-MN,1
+368,724.36,99,2188.0,71.87910643889619,1.9683695652173916,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+770,1511.22,99,2188.0,71.87910643889619,1.9626233766233767,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Water Resources-KA,1
+581,713.46,76,2188.0,71.87910643889619,1.2279862306368332,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
+1059,1530.36,89,2188.0,71.87910643889619,1.445099150141643,0.8365771392879451,Water Resources,"Department of Water Resources, River Development & GR",Department of water resources-MH - II,1
